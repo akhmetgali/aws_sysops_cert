@@ -9,7 +9,5 @@
 | Network            | 14%     |
 | Automatization     | 12%     |
 
-Duration = 130min
-65 questions, Result Immediatly
-720 points over 1000
-Cost 150$
+Duration = 130min, 65 questions, Result Immediatly
+720 points over 1000. Cost 150$
